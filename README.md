@@ -18,6 +18,10 @@ Lastly, this custom GPT can assist in mission planning and simulation interpreta
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Space](https://github.com/sourceduty/Space)
+<br>
+[Helipad_Pi](https://github.com/sourceduty/Helipad_Pi)
+<br>
+[SpaceX Starship](https://github.com/sourceduty/SpaceX_Starship)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
