@@ -22,6 +22,8 @@ Lastly, this custom GPT can assist in mission planning and simulation interpreta
 [Helipad_Pi](https://github.com/sourceduty/Helipad_Pi)
 <br>
 [SpaceX Starship](https://github.com/sourceduty/SpaceX_Starship)
+<br>
+[Hack Automation](https://github.com/sourceduty/Hack_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
