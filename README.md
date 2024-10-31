@@ -13,6 +13,9 @@ Additionally, this GPT is equipped to provide guidance on safety protocols and b
 Lastly, this custom GPT can assist in mission planning and simulation interpretation. It can help you plan your rocket's flight path, payload deployment, and other mission-critical details. If you're using simulation software to predict your rocket's performance, the GPT can help you understand and interpret the results, providing insights into how to optimize your rocket's design and flight plan for the best possible outcome. In all its interactions, it maintains a professional and helpful tone, offering clear, concise, and practical advice.
 
 #
+![Artemis](https://github.com/user-attachments/assets/a8dd7a78-5d1c-4af2-baab-27e65a3d9eb5)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
